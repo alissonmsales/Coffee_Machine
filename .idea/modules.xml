@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Perimeter/Coffee_Machine.Problems-Perimeter.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Perimeter/Coffee_Machine.Problems-Perimeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Perimeter/Coffee_Machine.Problems-Perimeter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Perimeter/Coffee_Machine.Problems-Perimeter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Perimeter/Coffee_Machine.Problems-Perimeter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Perimeter/Coffee_Machine.Problems-Perimeter.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>
